@@ -1,3 +1,9 @@
+
+
+
+
+ 
+
 const currentNumber = document.querySelector('.currentNumber');
 
 const previousNumber = document.querySelector('.previousNumber p');
